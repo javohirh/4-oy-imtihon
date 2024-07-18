@@ -2,7 +2,7 @@ const h1El = document.querySelector(".h1");
 const inputEl = document.querySelector(".form-control");
 const btnEl = document.querySelector(".btn");
 
-/*  9-masala
+/*  10-masala
 Arraydagi eng kichik sonni topuvchi fuksiya yarating va u eng kichik raqamni 4 chi darajasini string holda qaytarsin filter ishlatish mumkin*/
 
 btnEl.addEventListener("click", function () {

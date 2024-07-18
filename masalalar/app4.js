@@ -4,7 +4,7 @@ const inputEl = document.querySelector(".form-control");
 const btnEl = document.querySelector(".btn");
 
 let arr = [10, 20, 31, 40, 50, 97];
-h2El.textContent = `Sizning arrayda quyidagi raqamlar bor ${arr} va bu funksiya ularni toq va juftga o'zgartirib beradi`;
+h2El.textContent = `Sizning arrayda quyidagi raqamlar bor ${arr} va bu funksiya ularni toq va juftga saralab beradi`;
 /* 4-masala Raqamlardan iborat array qabul qilib shu array ni ichidagi raqamlarni toq va juft arraylar ga ajratib shu arraylarni qiymatini array xolda qaytaring, misol uchun: [10, 31,2,6]; {juft: [10,2,6]; toq: [31] }*/
 
 console.log(findEvenNum(arr));
