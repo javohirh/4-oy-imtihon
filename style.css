@@ -1,0 +1,14 @@
+.content {
+  position: relative;
+}
+.content p {
+  position: absolute;
+  top: 110px;
+  left: 30px;
+  user-select: none;
+  font-size: 30px;
+  color: aliceblue;
+}
+.content img {
+  border-radius: 6px;
+}
